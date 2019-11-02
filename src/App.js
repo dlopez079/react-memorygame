@@ -1,12 +1,12 @@
 import React, { Component } from "react";
-import Card from "./components/Card";  //Import card components and it's properties
-import Wrapper from "./components/Wrapper";  //Import wrapper components and it's properties
-import Header from "./components/Header";  //Import header components and it's properties
-import cards from "./cards.json"; //Data strored in a json. 
-import "./App.css"; //Styles for this app
+import Card from "./components/Card";
+import Wrapper from "./components/Wrapper";
+import Header from "./components/Header";
+import cards from "./cards.json";
+import "./App.css";
 
 class App extends Component {
-  //Creating an array to hold the data from the json file.
+  // Setting this.state.cards to the cards json array
   state = {
     cards,
     score: 0,

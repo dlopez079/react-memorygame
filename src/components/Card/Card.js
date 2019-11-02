@@ -1,5 +1,5 @@
-import React from "react";  //Imported React so we can export card.
-import "./Card.css"; //Imported card.css to style the card.
+import React from "react";
+import "./Card.css";
 
 const Card = props => (
   <div className="card" onClick={() => props.clickCount(props.id)}>

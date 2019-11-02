@@ -1,5 +1,5 @@
-import React from "react"; //Imported React so we can export card.
-import "./Header.css"; //Imported card.css to style the card.
+import React from "react";
+import "./Header.css";
 
 const Header = props => (
   <div className="header">
