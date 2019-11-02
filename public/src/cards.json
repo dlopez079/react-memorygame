@@ -1,0 +1,74 @@
+[
+    {
+    "id": 1,
+    "name": "01-Undertaker",
+    "image": "/react-memorygame/public/assets/img/01-Undertaker",
+    "count": 0
+    },
+    {
+    "id": 2,
+    "name": "02-Undertaker",
+    "image": "/react-memorygame/public/assets/img/02-Undertaker",
+    "count": 0
+    },
+    {
+    "id": 3,
+    "name": "04-Undertaker",
+    "image": "/react-memorygame/public/assets/img/03-Undertaker",
+    "count": 0
+    },
+    {
+    "id": 4,
+    "name": "05-Undertaker",
+    "image": "/react-memorygame/public/assets/img/04-Undertaker",
+    "count": 0
+    },
+    {
+    "id": 5,
+    "name": "06-Undertaker",
+    "image": "/react-memorygame/public/assets/img/05-Undertaker",
+    "count": 0
+    },
+    {
+    "id": 6,
+    "name": "07-Undertaker",
+    "image": "/react-memorygame/public/assets/img/06-Undertaker",
+    "count": 0
+    },
+    {
+    "id": 7,
+    "name": "08-Undertaker",
+    "image": "/react-memorygame/public/assets/img/07-Undertaker",
+    "count": 0
+    },
+    {
+    "id": 8,
+    "name": "09-Undertaker",
+    "image": "/react-memorygame/public/assets/img/08-Undertaker",
+    "count": 0
+    },
+    {
+    "id": 9,
+    "name": "10-Undertaker",
+    "image": "/react-memorygame/public/assets/img/09-Undertaker",
+    "count": 0
+    },
+    {
+    "id": 10,
+    "name": "11-Undertaker",
+    "image": "/react-memorygame/public/assets/img/10-Undertaker",
+    "count": 0
+    },
+    {
+    "id": 11,
+    "name": "12-Undertaker",
+    "image": "/react-memorygame/public/assets/img/11-Undertaker",
+    "count": 0
+    },
+    {
+    "id": 12,
+    "name": "13-Undertaker",
+    "image": "/react-memorygame/public/assets/img/12-Undertaker",
+    "count": 0
+    }
+    ]
