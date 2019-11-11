@@ -5,6 +5,24 @@ import Header from "./components/Header";
 import cards from "./cards.json";
 import "./App.css";
 
+
+function App() {
+  return (
+    <div className="App">
+      <h2>Can you remember where the cards are?</h2>
+      <Nav />
+      <Header />
+      <Main>
+      <Card
+        id={1}
+        width={100}
+        height={10}
+        back={}
+      </Main>
+      
+    </div>
+  );
+
 class App extends Component {
   // Setting this.state.cards to the cards json array
   state = {
@@ -59,6 +77,7 @@ class App extends Component {
       </Wrapper>
     );
   }
+
 }
 
 export default App;
